@@ -20,23 +20,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Minha apresentação com IA's
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um texto me apresentando ao mercado de trabalho com a ajuda do ChatGPT. Para tornar minha apresentação mais dinâmica e acessível, converti o texto em áudio e vídeo utilizando a IA Vidnoz.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Vidnoz AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1 - Criação de texto.
+2 - Pedir ao ChatGPT melhora-lo.
+3 - Colocar texto em uma IA de conversao de texto para audio e baixa-lo.
+4 - Ultilizando o áudio, converte-lo para video escolhendo uma das imagens disponíveis.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
+https://github.com/user-attachments/assets/90feb005-5d44-4c90-be0a-a80cd18bba96
+
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
+Impressionante e perigoso.
 
 ### Exemplos e Insigths
 
